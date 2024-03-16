@@ -1,4 +1,4 @@
 import bannerImg from "./banner-bg.png";
 
 
-export { bannerImg };
+export {bannerImg};

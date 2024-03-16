@@ -50,7 +50,7 @@ Docs Link: [Fake Store API](https://fakestoreapi.com/docs)
 Clone the project
 
 ```bash
-  git clone https://github.com/RakshaPawar108/elevate-frontend-assignment.git
+  git clone [https://github.com/prehans/elevate-frontend-assignment](https://github.com/prehans/elevate-frontend-assignment)
 ```
 
 Go to the project directory
@@ -76,11 +76,3 @@ Start the development server
 ```
 Open [http://127.0.0.1:5173/](http://127.0.0.1:5173/) to view it in your browser.
 
-
-
-## About the Developer
-
-- GitHub: [@RakshaPawar108](https://github.com/RakshaPawar108)
-- Twitter: [@rakshapawar108](https://twitter.com/rakshapawar108)
-- LinkedIn: [https://www.linkedin.com/in/rakshapawar/](https://www.linkedin.com/in/rakshapawar/)
-- Peerlist: [https://peerlist.io/rakshapawar](https://peerlist.io/rakshapawar)
